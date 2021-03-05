@@ -23,7 +23,7 @@ p {
 
 a { /*for all links*/
   text-decoration: none; /*no underline*/
-  color:#00cdd4;
+  color: #00cdd4;
 }
 
 div {
@@ -39,5 +39,5 @@ img {
 }
 
 .custom { /*changes the color of p.custom, a particular paragraph. can do the same thing with div*/
-  color; red;
+  color: red;
 }
